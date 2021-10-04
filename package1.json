@@ -1,0 +1,24 @@
+{
+  "name": "curso-gestion-de-dependencias-con-npm",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavcaves/curso-gestion-de-dependencias-con-npm.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Gustav Caves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavcaves/curso-gestion-de-dependencias-con-npm/issues"
+  },
+  "homepage": "https://github.com/gustavcaves/curso-gestion-de-dependencias-con-npm#readme"
+}
